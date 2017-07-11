@@ -27,3 +27,10 @@ h3 {
 	font-size: 21px;
 	font-weight: normal;
 }
+
+.footer {
+	color: gray;
+	font-size: 21px;
+	text-align: right;
+	font-weight: normal;
+}
